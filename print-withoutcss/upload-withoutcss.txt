@@ -1,0 +1,30 @@
+<!Doctype html>
+
+<html>
+<head>
+
+
+
+
+<body>
+
+
+
+
+<div align="center" class="upload_division">
+<form action="/action_page.php">
+<h1>
+Select files: <input type="file" name="myFile" multiple></br></br>
+<input type="submit" class="submit_text" value="submit">
+
+</h1>
+</form>
+
+
+</div>
+
+
+</body>
+
+
+</html>

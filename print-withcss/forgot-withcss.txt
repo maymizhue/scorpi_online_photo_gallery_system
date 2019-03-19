@@ -1,0 +1,46 @@
+<!Doctype html>
+
+<html>
+<head>
+
+<link rel="stylesheet" type"text/css" href="neo.css">
+<style>
+
+.menu aa{
+background-color : #344;
+color : black;
+font-size : 16px;
+display:block;
+}
+
+
+
+
+</style>
+
+
+<div class="login_container">
+
+<form action="action_page.php">
+
+
+</br>
+<label for="forgot">
+Email or  Password
+</label>
+<input type="text" placeholder="Enter username or email" name="u_or_email" required>
+
+
+</br>
+<button type="submit">Reset</button>
+<label>
+
+</form>
+
+
+<div>
+
+</body>
+
+
+</html>

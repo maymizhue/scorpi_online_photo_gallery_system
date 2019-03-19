@@ -1,0 +1,63 @@
+.object{
+
+ color:#f62;
+/* position:absolute;*/
+ margin-left:45%;
+ font-size:200%;
+}
+
+p {
+
+ color: blue;
+ font-size:200%;
+
+}
+
+.menu{
+
+ padding:30px;
+ color: grey;
+ background-color:violet;
+ opacity:0.5;
+ text-decoration:none;
+ border:5px solid black;
+
+}
+
+
+
+.menu a{
+
+
+ padding:inherit;
+ background-color:#fac;
+ color: black;
+ text-decoration:none;
+ font-size : 25px;
+ border:1px solid grey;
+
+}
+
+
+body {
+
+background-image:url("neo.jpg");
+repeat:none;
+background-size:cover;
+
+}
+
+.login_container{
+
+
+
+border: dotted 2px black;
+padding:50px;
+opacity:0.7;
+background-color:#717171;
+margin-left:35%;
+width:200px;
+margin-top:20%;
+font-size:10px;
+
+}

@@ -1,0 +1,69 @@
+<!Doctype html>
+
+<html>
+<head>
+
+<link rel="stylesheet" type"text/css" href="neo.css">
+<style>
+
+.menu aa
+{
+background-color : #344;
+color : black;
+font-size : 16px;
+display:block;
+}
+
+.upload_division
+{
+
+	opacity:0.8;
+	color:black;
+	background-color:#717171;
+	width:200px;
+	height:200px;
+	margin-top:300px;
+	border:solid 1px black;
+	margin-left:500px;
+
+
+
+}
+
+.submit_text
+{
+	background-color:#4caf50;
+	color:white;
+	padding:15px;
+	font-size:15px;
+
+
+}
+
+
+</style>
+
+
+
+<body>
+
+
+
+
+<div align="center" class="upload_division">
+<form action="/action_page.php">
+<h1>
+Select files: <input type="file" name="myFile" multiple></br></br>
+<input type="submit" class="submit_text" value="submit">
+
+</h1>
+</form>
+
+
+</div>
+
+
+</body>
+
+
+</html>
